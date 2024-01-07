@@ -1,0 +1,27 @@
+Please review the information entered: 
+
+Consumption Type: Flower
+Strain Name: Bubba
+Effects:Indica
+Consumption Method: Joint
+Quantity: 1 gram
+Date consumed: 1/1/2023
+Notes: Nice
+Please review the information entered: 
+
+Consumption Type: Flower
+Strain Name: Cheese
+Effects:Happy
+Consumption Method: Joint
+Quantity: .50 gram
+Date consumed: 1/1/2024
+Notes: N/A
+Please review the information entered: 
+
+Consumption Type: flower
+Strain Name: yoshi coffee creme
+Effects:dookdook
+Consumption Method: boof
+Quantity: a lot :(
+Date consumed: 11/21/22
+Notes: no more please
